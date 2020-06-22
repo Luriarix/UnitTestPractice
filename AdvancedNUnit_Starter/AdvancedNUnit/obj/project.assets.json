@@ -4578,11 +4578,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\work\\Luriarix\\UnitTestPractice\\AdvancedNUnit_Starter\\AdvancedNUnit\\AdvancedNUnit.csproj",
+      "projectUniqueName": "E:\\work\\00UnitTestPractice\\repo\\UnitTestPractice\\AdvancedNUnit_Starter\\AdvancedNUnit\\AdvancedNUnit.csproj",
       "projectName": "AdvancedNUnit",
-      "projectPath": "E:\\work\\Luriarix\\UnitTestPractice\\AdvancedNUnit_Starter\\AdvancedNUnit\\AdvancedNUnit.csproj",
+      "projectPath": "E:\\work\\00UnitTestPractice\\repo\\UnitTestPractice\\AdvancedNUnit_Starter\\AdvancedNUnit\\AdvancedNUnit.csproj",
       "packagesPath": "C:\\Users\\Aragot\\.nuget\\packages\\",
-      "outputPath": "E:\\work\\Luriarix\\UnitTestPractice\\AdvancedNUnit_Starter\\AdvancedNUnit\\obj\\",
+      "outputPath": "E:\\work\\00UnitTestPractice\\repo\\UnitTestPractice\\AdvancedNUnit_Starter\\AdvancedNUnit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

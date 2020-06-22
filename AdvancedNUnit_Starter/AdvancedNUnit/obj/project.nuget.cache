@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h9ZgZ045GmrP/JpSV9IGiHWKpEKYuYASyUX0rYXwy5W/584FyrWw4B3LWMsYbhaC3T2gkx7RTdJLy9pSbJ87NQ==",
+  "dgSpecHash": "gIiOlMUBa3WYZ2ue3acsEzKeYr7cOxf/uL1DYCDZdgoENSWRe9qbjN4+gwDiim9FH7Hg3LSPsSJCi4z4me4B4Q==",
   "success": true,
-  "projectFilePath": "E:\\work\\Luriarix\\UnitTestPractice\\AdvancedNUnit_Starter\\AdvancedNUnit\\AdvancedNUnit.csproj",
+  "projectFilePath": "E:\\work\\00UnitTestPractice\\repo\\UnitTestPractice\\AdvancedNUnit_Starter\\AdvancedNUnit\\AdvancedNUnit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aragot\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Aragot\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -1,0 +1,9 @@
+E:\work\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzzApp.csprojAssemblyReference.cache
+E:\work\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzzApp.AssemblyInfoInputs.cache
+E:\work\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzzApp.AssemblyInfo.cs
+E:\work\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzzApp.csproj.CoreCompileInputs.cache
+E:\work\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzzApp.deps.json
+E:\work\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzzApp.dll
+E:\work\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzzApp.pdb
+E:\work\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzzApp.dll
+E:\work\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzzApp.pdb

@@ -1,0 +1,13 @@
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Multiples of 3 and 5\ProjectEuler Multiples of 3 and 5\bin\Debug\netcoreapp3.1\ProjectEuler Multiples of 3 and 5.exe
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Multiples of 3 and 5\ProjectEuler Multiples of 3 and 5\bin\Debug\netcoreapp3.1\ProjectEuler Multiples of 3 and 5.deps.json
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Multiples of 3 and 5\ProjectEuler Multiples of 3 and 5\bin\Debug\netcoreapp3.1\ProjectEuler Multiples of 3 and 5.runtimeconfig.json
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Multiples of 3 and 5\ProjectEuler Multiples of 3 and 5\bin\Debug\netcoreapp3.1\ProjectEuler Multiples of 3 and 5.runtimeconfig.dev.json
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Multiples of 3 and 5\ProjectEuler Multiples of 3 and 5\bin\Debug\netcoreapp3.1\ProjectEuler Multiples of 3 and 5.dll
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Multiples of 3 and 5\ProjectEuler Multiples of 3 and 5\bin\Debug\netcoreapp3.1\ProjectEuler Multiples of 3 and 5.pdb
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Multiples of 3 and 5\ProjectEuler Multiples of 3 and 5\obj\Debug\netcoreapp3.1\ProjectEuler Multiples of 3 and 5.csprojAssemblyReference.cache
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Multiples of 3 and 5\ProjectEuler Multiples of 3 and 5\obj\Debug\netcoreapp3.1\ProjectEuler Multiples of 3 and 5.AssemblyInfoInputs.cache
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Multiples of 3 and 5\ProjectEuler Multiples of 3 and 5\obj\Debug\netcoreapp3.1\ProjectEuler Multiples of 3 and 5.AssemblyInfo.cs
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Multiples of 3 and 5\ProjectEuler Multiples of 3 and 5\obj\Debug\netcoreapp3.1\ProjectEuler Multiples of 3 and 5.csproj.CoreCompileInputs.cache
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Multiples of 3 and 5\ProjectEuler Multiples of 3 and 5\obj\Debug\netcoreapp3.1\ProjectEuler Multiples of 3 and 5.dll
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Multiples of 3 and 5\ProjectEuler Multiples of 3 and 5\obj\Debug\netcoreapp3.1\ProjectEuler Multiples of 3 and 5.pdb
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Multiples of 3 and 5\ProjectEuler Multiples of 3 and 5\obj\Debug\netcoreapp3.1\ProjectEuler Multiples of 3 and 5.genruntimeconfig.cache
