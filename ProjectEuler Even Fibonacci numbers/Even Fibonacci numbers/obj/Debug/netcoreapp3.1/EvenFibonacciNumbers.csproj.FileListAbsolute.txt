@@ -1,0 +1,12 @@
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.AssemblyInfoInputs.cache
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.AssemblyInfo.cs
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.csproj.CoreCompileInputs.cache
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Even Fibonacci numbers\Even Fibonacci numbers\bin\Debug\netcoreapp3.1\EvenFibonacciNumbers.exe
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Even Fibonacci numbers\Even Fibonacci numbers\bin\Debug\netcoreapp3.1\EvenFibonacciNumbers.deps.json
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Even Fibonacci numbers\Even Fibonacci numbers\bin\Debug\netcoreapp3.1\EvenFibonacciNumbers.runtimeconfig.json
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Even Fibonacci numbers\Even Fibonacci numbers\bin\Debug\netcoreapp3.1\EvenFibonacciNumbers.runtimeconfig.dev.json
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Even Fibonacci numbers\Even Fibonacci numbers\bin\Debug\netcoreapp3.1\EvenFibonacciNumbers.dll
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Even Fibonacci numbers\Even Fibonacci numbers\bin\Debug\netcoreapp3.1\EvenFibonacciNumbers.pdb
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.dll
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.pdb
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.genruntimeconfig.cache
