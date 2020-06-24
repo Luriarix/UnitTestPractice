@@ -1,0 +1,13 @@
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest prime factor\ProjectEuler Largest prime factor\bin\Debug\netcoreapp3.1\ProjectEuler Largest prime factor.exe
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest prime factor\ProjectEuler Largest prime factor\bin\Debug\netcoreapp3.1\ProjectEuler Largest prime factor.deps.json
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest prime factor\ProjectEuler Largest prime factor\bin\Debug\netcoreapp3.1\ProjectEuler Largest prime factor.runtimeconfig.json
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest prime factor\ProjectEuler Largest prime factor\bin\Debug\netcoreapp3.1\ProjectEuler Largest prime factor.runtimeconfig.dev.json
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest prime factor\ProjectEuler Largest prime factor\bin\Debug\netcoreapp3.1\ProjectEuler Largest prime factor.dll
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest prime factor\ProjectEuler Largest prime factor\bin\Debug\netcoreapp3.1\ProjectEuler Largest prime factor.pdb
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest prime factor\ProjectEuler Largest prime factor\obj\Debug\netcoreapp3.1\ProjectEuler Largest prime factor.csprojAssemblyReference.cache
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest prime factor\ProjectEuler Largest prime factor\obj\Debug\netcoreapp3.1\ProjectEuler Largest prime factor.AssemblyInfoInputs.cache
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest prime factor\ProjectEuler Largest prime factor\obj\Debug\netcoreapp3.1\ProjectEuler Largest prime factor.AssemblyInfo.cs
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest prime factor\ProjectEuler Largest prime factor\obj\Debug\netcoreapp3.1\ProjectEuler Largest prime factor.csproj.CoreCompileInputs.cache
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest prime factor\ProjectEuler Largest prime factor\obj\Debug\netcoreapp3.1\ProjectEuler Largest prime factor.dll
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest prime factor\ProjectEuler Largest prime factor\obj\Debug\netcoreapp3.1\ProjectEuler Largest prime factor.pdb
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest prime factor\ProjectEuler Largest prime factor\obj\Debug\netcoreapp3.1\ProjectEuler Largest prime factor.genruntimeconfig.cache

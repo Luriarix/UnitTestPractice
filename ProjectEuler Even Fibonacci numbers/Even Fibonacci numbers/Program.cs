@@ -6,7 +6,7 @@ namespace Even_Fibonacci_numbers
     {
         static void Main(string[] args)
         {
-            FibonacciSequence(10);
+            FibonacciSequence(400000);
         }
 
         public static string FibonacciSequence(int num)
@@ -26,6 +26,7 @@ namespace Even_Fibonacci_numbers
             int elementInTheSequence = 1, previousElementInSequence = 1, sumOfEvenElements = 0;
             while (elementInTheSequence <= num)
             {
+                Console.WriteLine(elementInTheSequence);
                 elementInTheSequence = previousElementInSequence + elementInTheSequence;
                 previousElementInSequence = elementInTheSequence - previousElementInSequence;
                 if (elementInTheSequence % 2 == 0)

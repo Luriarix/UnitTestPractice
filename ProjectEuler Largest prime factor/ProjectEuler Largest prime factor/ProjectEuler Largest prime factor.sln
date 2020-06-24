@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler Largest prime factor", "ProjectEuler Largest prime factor.csproj", "{4354470D-A8F5-4A11-A62D-4821C9062F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler Largest prime factor Test", "..\ProjectEuler Largest prime factor Test\ProjectEuler Largest prime factor Test.csproj", "{7159FBDD-AB9A-476B-9790-F85080F00488}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4354470D-A8F5-4A11-A62D-4821C9062F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4354470D-A8F5-4A11-A62D-4821C9062F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4354470D-A8F5-4A11-A62D-4821C9062F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4354470D-A8F5-4A11-A62D-4821C9062F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7159FBDD-AB9A-476B-9790-F85080F00488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7159FBDD-AB9A-476B-9790-F85080F00488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7159FBDD-AB9A-476B-9790-F85080F00488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7159FBDD-AB9A-476B-9790-F85080F00488}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED330527-BEA5-4C86-AB89-B94D55A71554}
+	EndGlobalSection
+EndGlobal

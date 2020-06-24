@@ -1,0 +1,13 @@
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest palindrome product\ProjectEuler Largest palindrome product\bin\Debug\netcoreapp3.1\ProjectEuler Largest palindrome product.exe
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest palindrome product\ProjectEuler Largest palindrome product\bin\Debug\netcoreapp3.1\ProjectEuler Largest palindrome product.deps.json
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest palindrome product\ProjectEuler Largest palindrome product\bin\Debug\netcoreapp3.1\ProjectEuler Largest palindrome product.runtimeconfig.json
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest palindrome product\ProjectEuler Largest palindrome product\bin\Debug\netcoreapp3.1\ProjectEuler Largest palindrome product.runtimeconfig.dev.json
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest palindrome product\ProjectEuler Largest palindrome product\bin\Debug\netcoreapp3.1\ProjectEuler Largest palindrome product.dll
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest palindrome product\ProjectEuler Largest palindrome product\bin\Debug\netcoreapp3.1\ProjectEuler Largest palindrome product.pdb
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest palindrome product\ProjectEuler Largest palindrome product\obj\Debug\netcoreapp3.1\ProjectEuler Largest palindrome product.csprojAssemblyReference.cache
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest palindrome product\ProjectEuler Largest palindrome product\obj\Debug\netcoreapp3.1\ProjectEuler Largest palindrome product.AssemblyInfoInputs.cache
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest palindrome product\ProjectEuler Largest palindrome product\obj\Debug\netcoreapp3.1\ProjectEuler Largest palindrome product.AssemblyInfo.cs
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest palindrome product\ProjectEuler Largest palindrome product\obj\Debug\netcoreapp3.1\ProjectEuler Largest palindrome product.csproj.CoreCompileInputs.cache
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest palindrome product\ProjectEuler Largest palindrome product\obj\Debug\netcoreapp3.1\ProjectEuler Largest palindrome product.dll
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest palindrome product\ProjectEuler Largest palindrome product\obj\Debug\netcoreapp3.1\ProjectEuler Largest palindrome product.pdb
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Largest palindrome product\ProjectEuler Largest palindrome product\obj\Debug\netcoreapp3.1\ProjectEuler Largest palindrome product.genruntimeconfig.cache

@@ -10,3 +10,4 @@ E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Even Fibonacci num
 E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.dll
 E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.pdb
 E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.genruntimeconfig.cache
+E:\work\00UnitTestPractice\repo\UnitTestPractice\ProjectEuler Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\EvenFibonacciNumbers.csprojAssemblyReference.cache
