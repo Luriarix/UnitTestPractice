@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace ProjectEuler_Largest_prime_factor
 {
@@ -26,6 +27,10 @@ namespace ProjectEuler_Largest_prime_factor
         {
             List<int> primeNumbersThatModulusTheNumber = new List<int>();
             int i;
+            if (IsNumPrime(num) == true)
+            {
+                primeNumbersThatModulusTheNumber.Add(num);
+                }
             for (i = (num - 1); i > 1; i--)
             {
                 if (num % i == 0)
@@ -37,7 +42,7 @@ namespace ProjectEuler_Largest_prime_factor
                     }
                 }
             }
-            return i;
+            return primeNumbersThatModulusTheNumber.First();
         }
 
     }

@@ -14,11 +14,18 @@ namespace ProjectEuler_Largest_palindrome_product_Test
         [TestCase(212, true)]//test 1 check to see if a number is a palindrom 
         [TestCase(636, true)]
         [TestCase(525, true)]
-        [TestCase(123, false)]
         public void PalindromCheck_Result_IsPalindrom(int num, bool expected)
         {
             Assert.That(Program.PalindromCheck(num), Is.EqualTo(expected));
         }
+
+        [TestCase(123, false)]
+        public void PalindromCheck_Result_NotAPalindrom(int num, bool expected)
+        {
+            Assert.That(Program.PalindromCheck(num), Is.EqualTo(expected));
+        }
+
+
 
         //[TestCase(12,24)]//test 2 check product 
         //[TestCase(2,6)]
